@@ -48,7 +48,7 @@ LSFT_T(KC_TAB), KC_EXLM,  KC_AT, KC_HASH,  KC_DLR, KC_PERC,                     
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
        KC_TAB,   KC_NO, KC_RABK, KC_RBRC, KC_RPRN, KC_RCBR,                   LCTL(KC_V), KC_HOME,   KC_UP,  KC_END, KC_PGUP, KC_PSCR,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-        KC_NO,   KC_NO, KC_LABK, KC_LBRC, KC_LPRN, KC_LCBR,                   LCTL(KC_C), KC_LEFT, KC_DOWN, KC_RGHT, KC_PGDN, KC_LCTL,
+      KC_BTN1, KC_BTN2, KC_LABK, KC_LBRC, KC_LPRN, KC_LCBR,                   LCTL(KC_C), KC_LEFT, KC_DOWN, KC_RGHT, KC_PGDN, KC_LCTL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
         KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                        KC_F7,   KC_F8,   KC_F9,  KC_F10,  KC_F11,  KC_F12,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
